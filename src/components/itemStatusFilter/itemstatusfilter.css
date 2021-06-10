@@ -1,0 +1,22 @@
+.btn-search {
+   min-width: 114px;
+   font-weight: bold;
+   padding: 10px 20px;
+   border-radius: 10px;
+   transition: .5s;
+   border: none;
+   box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+
+}
+
+.btn-search:not(:last-child) {
+   margin-right: 10px;
+}
+
+.btn-search {
+   background-color: #a3e3f7;
+}
+
+.btn-search.active {
+   background-color: #31b0d5;
+}

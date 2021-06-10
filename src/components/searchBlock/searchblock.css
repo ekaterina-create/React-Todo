@@ -1,0 +1,16 @@
+.input {
+   max-width: 64%;
+   display: inline-block;
+   margin-right: 20px;
+   font-size: 20px;
+   padding: 10px;
+   min-height: 38px;
+}
+
+.search__form {
+   padding: 20px 0;
+}
+
+.input:focus::-webkit-input-placeholder {
+   color: transparent
+}

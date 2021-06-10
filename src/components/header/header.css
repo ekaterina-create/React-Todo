@@ -1,0 +1,19 @@
+.header{
+   display: flex;
+   align-items: center;
+   padding: 60px 40px;
+   margin: 0;
+   width: 100%;
+   background-color: #da4f6e;
+  background-image: linear-gradient(60deg, #e85475 10%, #d48444 50%, #efcb0a 100%);
+  margin-bottom: 20px;
+}
+.header h1 {
+   margin: 0;
+   color: #fff;
+   margin-right: 400px;
+}
+.header__span{
+   font-size: 36px;
+   color: #fff;
+}

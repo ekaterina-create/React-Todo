@@ -1,0 +1,16 @@
+.add__input {
+   min-width: 98%;
+   min-height: 50px;
+   margin-right: 20px;
+   padding: 10px;
+   font-size: 20px;
+}
+
+.btn-info {
+   padding: 7px 15px;
+   border-radius: 7px;
+}
+
+.add__input:focus::-webkit-input-placeholder {
+   color: transparent
+}
